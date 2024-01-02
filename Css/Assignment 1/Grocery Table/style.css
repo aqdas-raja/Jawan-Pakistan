@@ -1,0 +1,65 @@
+/* Heading Style */
+
+h1{
+    text-align: center;
+    font-family: sans-serif ;
+    font-weight: normal ;
+}
+
+/* Table Border */
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;   
+}
+
+/* Table Header  */
+th{
+    background-color: rgba(90, 129, 35, 0.712);
+}
+
+/* Table Styling */
+table{
+    border-collapse: collapse;
+    border-width: 2px;
+    width: 30%;
+    margin: 0 auto;
+    
+}
+/* Table td and thead */
+.tdata{
+    text-align: center;
+    
+}
+
+.tdata1{
+    text-align: center;
+    background-color: rgb(213, 213, 211); ;
+}
+
+.tdata2{
+    text-align: center;
+    background-color: rgb(238, 237, 237);
+}
+
+.thead{
+    font-family: sans-serif;
+    color: white;
+}
+
+.thead1{
+    font-family: sans-serif;
+    color: white;
+    text-align: left;
+}
+
+/* Table footer */
+
+.tprice {
+    font-family: sans-serif;
+    text-align: right;
+    font-weight: bold;
+}
+
+.items{
+    background-color: rgb(213, 213, 211);
+}
